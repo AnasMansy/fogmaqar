@@ -1,0 +1,50 @@
+[
+    {
+        "building": "الايسر",
+        "management": "HR",
+        "office": "Office 101",
+        "employee": "أحمد خالد"
+    },
+    {
+        "building": "الايسر",
+        "management": "IT",
+        "office": "Office 102",
+        "employee": "محمود حسن"
+    },
+    {
+        "building": "الماليه",
+        "management": "Finance",
+        "office": "Office 201",
+        "employee": "علي محمود"
+    },
+    {
+        "building": "الماليه",
+        "management": "Marketing",
+        "office": "Office 202",
+        "employee": "سارة علي"
+    },
+    {
+        "building": "الهندسيه",
+        "management": "Engineering",
+        "office": "Office 301",
+        "employee": "محمد فؤاد"
+    },
+    {
+        "building": "الهندسيه",
+        "management": "Design",
+        "office": "Office 302",
+        "employee": "فاطمة نور"
+    },
+    {
+        "building": "النظم",
+        "management": "Systems",
+        "office": "Office 401",
+        "employee": "يوسف سامي"
+    },
+    {
+        "building": "النظم",
+        "management": "Support",
+        "office": "Office 402",
+        "employee": "منى جمال"
+    }
+]
